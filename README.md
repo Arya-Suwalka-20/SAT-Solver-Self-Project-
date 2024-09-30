@@ -4,7 +4,7 @@
 
 ## Description 
 This repository contains a SAT (Boolean satisfiability problem) solver implemented in C++. It utilizes the DPLL algorithm with enhancements like unit propagation and pure literal elimination to efficiently search for satisfying assignments for Boolean formulas in Conjunctive Normal Form (CNF).
-Input the name of DIMACS file from which input is to be taken. You will get the output.
+Input the name of 'testFile' file from which input is to be taken. You will get the output.
 
 ## Implemented Techniques
 
